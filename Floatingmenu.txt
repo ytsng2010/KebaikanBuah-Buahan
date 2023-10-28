@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floating Menu </title>
+<body style="background-color:powderblue;">
+</style>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="menu">
+        <ul>
+            <li><a href="file:///F:/ASK/ASK%20tingkatan%201/Html/durian.html" target"#">Durian</a></li>
+            <li><a href="file:///F:/ASK/ASK%20tingkatan%201/Html/manggis.html">Manggis</a></li>
+            <li><a href="file:///F:/ASK/ASK%20tingkatan%201/Html/rambutan.html">Rambutan</a></li>
+        </ul>
+    </div>
+   </body>
+</html>

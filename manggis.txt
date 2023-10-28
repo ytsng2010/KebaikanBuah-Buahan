@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Manggis </title>
+ <body style="background-color:powderblue;">
+  </style>
+</head>
+<body>
+<h1 span style="color:red;">Manggis</h1>
+<img src="manggis.jpg" alt="manggis" style="width:228px;height:158px;">
+</body>
+</html>
